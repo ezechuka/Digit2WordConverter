@@ -11,7 +11,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         // USAGE
-        val string = DigitConverter.asWords(1001) // two hundred and eleven thousand five hundred and one
+        val string = DigitConverter.asWords(56)
         Log.d("TESTING", string)
     }
 }
