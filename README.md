@@ -1,5 +1,8 @@
 # Digit2WordConverter
-Digit2WordConverter - Simply returns the word interpretation of a given digit. The range of values currently supported is 1 - 9,999,999.
+Digit2WordConverter - Simply returns the word interpretation of a given digit. 
+The range of values currently supported is 1 - 9,999,999.
+
+[![](https://jitpack.io/v/ezechuka/Digit2WordConverter.svg)](https://jitpack.io/#ezechuka/Digit2WordConverter)
 
 ## Dependency Project Level
      Add the JitPack repository to your build file
